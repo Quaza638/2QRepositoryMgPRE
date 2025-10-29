@@ -1,0 +1,55 @@
+<div class="content-divider">
+
+<style>
+                body {
+                margin: 0;
+                height: 100vh;
+                background: url(../assets/background.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                background-attachment: fixed;
+                font-family: Arial, sans-serif;
+                color: white;
+                }
+
+            .center {
+                text-align: center;
+            }
+
+            .content-divider {
+                background: rgba(30, 30, 47, 0.85); /* Semi-transparent dark box */
+                border-radius: 15px;
+                padding: 25px 35px;
+                margin: 25px auto;
+                max-width: 1000px;
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            }
+
+            img {
+                border-radius: 10px;
+            }
+
+            nav 
+            {
+                background: #333;
+                text-align: center;
+                padding: 10px;
+            }
+            nav a
+            {
+                color: #ccc;
+                text-decoration: none;
+                margin: 0 12px;
+            }
+            nav a:hover {
+                color: #fff
+            }
+
+            .footer {
+                text-align: center;
+                font-size: medium;
+                padding: 20px;
+                color: white;
+            }
+            </div>
